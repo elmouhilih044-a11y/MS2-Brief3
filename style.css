@@ -1,0 +1,39 @@
+h1 {
+text-align: center;
+}
+
+.paragraph{
+    text-align: center;
+}
+
+.card{
+    display: flex;
+    justify-content: space-around;
+
+}
+.supervisor{
+    border:2px solid rgb(226, 221, 221);
+    padding:.4rem;
+
+}
+.team{
+    border:2px solid rgb(226, 221, 221);
+    padding:.4rem;
+    margin: 5rem;
+}
+
+.karma{
+    border:2px solid rgb(226, 221, 221);
+    padding:.4rem;
+
+}
+.calculator{
+     border:2px solid rgb(226, 221, 221);
+    padding:.4rem;
+    position: relative;
+}
+
+.img3{
+    position: absolute;
+ 
+}
