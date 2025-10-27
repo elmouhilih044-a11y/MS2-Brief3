@@ -12,28 +12,31 @@ text-align: center;
 
 }
 .supervisor{
-    border:2px solid rgb(226, 221, 221);
+    border-top:5px solid hsl(180, 62%, 55%);
     padding:.4rem;
 
 }
 .team{
-    border:2px solid rgb(226, 221, 221);
+     border-top:5px solid hsl(0, 78%, 62%);
     padding:.4rem;
     margin: 5rem;
 }
 
 .karma{
-    border:2px solid rgb(226, 221, 221);
+    border-top:5px solid  hsl(34, 97%, 64%);
     padding:.4rem;
 
 }
 .calculator{
-     border:2px solid rgb(226, 221, 221);
+     border-top:5px solid hsl(180, 62%, 55%);
     padding:.4rem;
     position: relative;
+     margin: 5rem;
+    
 }
 
 .img3{
     position: absolute;
+    
  
 }
